@@ -1,4 +1,4 @@
-# CECS-282-Operator-Overloading
+# Operator-Overloading
 ## Project 4
 
 Test file - testupDate.cpp written by my professor Steven H. Gold 
